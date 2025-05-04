@@ -5,3 +5,7 @@ This project includes a simple implementation of the A* (A-star) pathfinding alg
 The project is ideal for learning and experimenting with basic game AI and navigation systems in Unity.
 
 This project is early version of my first big game project.
+
+№ How To Analyse Scripts
+
+You can see the scripts in Assets/Scripts folder. AStarManager.cs, Node.cs, NodeConnector.cs, Pathfinder.cs is required scripts.
